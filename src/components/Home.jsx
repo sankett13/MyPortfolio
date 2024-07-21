@@ -87,7 +87,7 @@ const HomePage = () => {
           {/* Main Content */}
           <main
             id="home"
-            className="flex-grow flex items-center justify-center px-4 sm:px-6 lg:px-8 min-h-screen mb-10"
+            className="flex-grow flex items-center justify-center px-4 sm:px-6 lg:px-8 min-h-screen mb-10 mt-6"
           >
             <div className="text-center">
               {/* Profile Image */}
